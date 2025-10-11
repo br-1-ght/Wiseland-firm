@@ -5,6 +5,8 @@ import Testimonial from './components/services/Testimonials';
 import ServicesSection from './components/Services';
 import CTASection from './components/CTA.';
 import FAQSection from './components/FAQ';
+import ContactSection from './components/Contact';
+import FinalCTAAndFooter from './components/FinalCTAAndFooter';
 
 const App = () => {
   return (
@@ -16,6 +18,8 @@ const App = () => {
       <ServicesSection />
       <CTASection />
       <FAQSection />
+      <ContactSection />
+      <FinalCTAAndFooter />
     </div>
   );
 };

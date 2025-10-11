@@ -62,6 +62,7 @@ const Header = () => {
 
             <a href="#blog" className="text-gray-700 hover:text-gray-900 text-sm lg:text-base">Blog</a>
             <a href="#about" className="text-gray-700 hover:text-gray-900 text-sm lg:text-base">About</a>
+            <a href="#contact" className="text-gray-700 hover:text-gray-900 text-sm lg:text-base">Contact</a>
             <button className="bg-green-600 text-white px-4 py-2 lg:px-6 lg:py-3 rounded hover:bg-green-700 font-semibold text-sm lg:text-base whitespace-nowrap">
               BOOK A CALL
             </button>
@@ -119,6 +120,7 @@ const Header = () => {
 
             <a href="#blog" className="block text-gray-700 hover:text-gray-900 px-2 py-2">Blog</a>
             <a href="#about" className="block text-gray-700 hover:text-gray-900 px-2 py-2">About</a>
+            <a href="#contact" className="block text-gray-700 hover:text-gray-900 px-2 py-2">Contact</a>
             <button className="w-full bg-green-600 text-white px-4 py-3 rounded hover:bg-green-700 font-semibold mt-2">
               BOOK A CALL
             </button>
